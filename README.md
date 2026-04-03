@@ -2,8 +2,8 @@
 DSA assignment 2 - Stack and Queue programs in c language
 
 Name: Keerthana Ontimitta  
-Roll Number: (your roll number)  
-Course: Introduction to Data Structure  
+Roll Number: CDS/2025/1189 
+Course: Data Structure and Algorithm 
 
 ## Assignment Description
 This repository contains Assignment 2 programs based on Stack and Queue implemented in C language.
